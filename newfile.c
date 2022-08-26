@@ -1,9 +1,10 @@
 //Program to print Welcome Message
 #include<stdio.h>
 int main()
-{
-	printf("Welcome");
-	return  0;
+{ int age;
+  char name[5];
+     printf("Welcome");
+     scanf("%d",&age);
+     scanf("%d",&name);
 }
 	
-//

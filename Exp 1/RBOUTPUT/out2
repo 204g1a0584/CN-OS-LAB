@@ -1,0 +1,7 @@
+<pre>The Average Waiting time is -- -7.800000 
+	PROCESS	 BURST TIME 	 WAITING TIME	TURNAROUND TIME
+	1 	 6 		 0 		 6 
+	2 	 2 		 6 		 8 
+	3 	 -1 		 8 		 7 
+	4 	 2 		 7 		 9 
+	5 	 1970532924 		 -60 		 1970532864 </pre>
